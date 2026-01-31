@@ -33,9 +33,9 @@ The dataset contains Superstore sales information including:
 - Some regions generate higher profit compared to others
 
 ## 📁 Project Structure
-- `salesorderdata.csv` – Raw sales dataset
-- `excel-analysis/` – Excel file with pivot tables and charts
-- `screenshots/` – Screenshots of Excel analysis
+- `SuperStoreOrder.csv` – Raw sales dataset
+- `superStoreOrder.xlsx` – Excel file with pivot tables and charts
+- `sales_analysis.JPG` – Screenshots of Excel analysis
 
 ## 🎯 Learning Outcome
 - Improved understanding of Excel for data analysis
